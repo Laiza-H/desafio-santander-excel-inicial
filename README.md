@@ -1,5 +1,7 @@
 # desafio-santander-excel-inicial
 Repositório para o primeiro desafio do bootcamp santander excel com inteligência artificial - Criando uma Ferramenta de Controle de Investimentos com Excel
+O projeto gerado NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO e possui uma abordagem somente educativa. 
+
 # 💰 Simulador de Investimentos em FIIs (Excel)
 
 Este projeto consiste em uma ferramenta prática desenvolvida em Excel para simular e gerenciar investimentos em Fundos Imobiliários (FIIs). A planilha foi criada para auxiliar investidores iniciantes a visualizarem o crescimento de seu patrimônio e a projeção de dividendos mensais.
